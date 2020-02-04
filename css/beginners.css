@@ -4,7 +4,7 @@ body{
   margin:0px;
 }
 header{
-  background-color: pink;
+/*   background-color: pink; */
   text-align: center;
 }
 .header-logo h1{
@@ -12,7 +12,7 @@ header{
   /* text-align: center; */
 }
 .header-info{
-  background-color: green;
+/*   background-color: green; */
   /* display: flex; */
   display: inline-block;
   /* float: left; */
