@@ -1,0 +1,46 @@
+body{
+  color:#333
+  font-family: sans-serif;
+  margin:0px;
+}
+header{
+  background-color: pink;
+  text-align: center;
+}
+.header-logo h1{
+  background-color: gray;
+  /* text-align: center; */
+}
+.header-info{
+  background-color: green;
+  /* display: flex; */
+  display: inline-block;
+  /* float: left; */
+  padding: 10px;
+}
+.header-info p{
+  margin: 0px;
+}
+.header-info li{
+  /* display:flex; */
+  /* text-align: right; */
+  float: left;
+  margin:8px;
+}
+.header-info ul{
+  margin: 0px;
+}
+li{
+  list-style-type: none;
+}
+
+.what > h1{
+  text-align: center;
+}
+section{
+  text-align: center;
+}
+
+footer{
+  background-color: skyblue;
+}
